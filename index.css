@@ -1,0 +1,21 @@
+
+.text1{
+    text-align: center;
+    padding-top: 1%;
+}
+.res{
+    border-style: solid;
+    cursor: pointer;
+}
+
+
+.button1{
+    background-color: #2aa469;
+}
+.button2{
+    background-color: #2aa469;
+}
+.button3{
+    background-color:  rgba(0, 0, 0, 0.8);;
+}
+
